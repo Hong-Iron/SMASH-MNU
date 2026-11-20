@@ -1,0 +1,34 @@
+{
+ "region": "전남 무안군 청계면",
+ "nameEn": "Mokpo National University Dorim Campus",
+ "added": "2026-10-27T21:00",
+ "rank": 73,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "CHODANG",
+   "campus": "초당대학교",
+   "km": 8.2
+  },
+  {
+   "code": "MSU",
+   "campus": "목포과학대학교",
+   "km": 11.7
+  },
+  {
+   "code": "MMU",
+   "campus": "국립목포해양대학교",
+   "km": 14.6
+  },
+  {
+   "code": "SEHAN",
+   "campus": "세한대학교 영암캠퍼스",
+   "km": 18.5
+  },
+  {
+   "code": "DONGSHIN",
+   "campus": "동신대학교",
+   "km": 29.7
+  }
+ ]
+}
